@@ -95,5 +95,33 @@ span {
     font-size: 16px;
     line-height: 24px;
     height: 48px;
-    
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 120px;
+    width: 100%;
+}
+.cont {
+    width: 375px;
+}
+.location {
+    display: flex;
+    gap: 8px;
+}
+.container h4 {
+    font-family: "Urbanist";
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    margin-top: 10px;
+    color: #262626;
+}
+.container h6 {
+    font-family: "Urbanist";
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #595959;
 }
