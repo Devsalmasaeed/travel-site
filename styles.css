@@ -357,3 +357,30 @@ span {
     color: #262626;
     margin-bottom: 20px;
 }
+.best-offer {
+    width: 375px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.best-offer p {
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    height: 104px;
+    color: #262626;
+}
+.click {
+    padding: 16px 32px 16px 32px;
+    background-color: #25A59E;
+    color: #FFFFFF;
+    height: 54px;
+    width: 147px;
+    border: solid 1px #25A59E;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.divider {
+    width: 375px;
+}
