@@ -397,3 +397,19 @@ span {
     width: 375px;
     height: 48px;
 }
+.social {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    justify-content: space-between;
+    margin-top: 25px;
+    gap: 30px;
+    margin-bottom: 60px;
+}
+.icons {
+    width: 375px;
+    height: 42px;
+}
+.icons img {
+    margin-left: 60px;
+}
