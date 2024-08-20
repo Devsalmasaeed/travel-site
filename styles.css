@@ -125,3 +125,26 @@ span {
     line-height: 24px;
     color: #595959;
 }
+.content-2 {
+    gap: 24px;
+    width: 375px;
+    height: 204px;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.content-2 h2 {
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    color: #262626;
+    margin-bottom: 10px;
+}
+.content-2 p {
+    font-family: "Urbanist";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #595959;
+}
