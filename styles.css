@@ -148,3 +148,144 @@ span {
     line-height: 24px;
     color: #595959;
 }
+.listcard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 28px;
+    width: 100%;
+}
+.card {
+    align-items: flex-end;
+    justify-content: flex-end;
+    gap: 80px;
+    padding: 40px 32px 48px;
+    flex: 1;
+    flex-grow: 1;
+    box-shadow: 10px 26px 150px #4342631a;
+    display: flex;
+    flex-direction: column;
+    width: 375px;
+    position: relative;
+    background-color: #ffffff;
+}
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    position: relative;
+    align-self: stretch;
+    width: 90%;
+    flex: 0 0 auto;
+}
+.title{
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.4px;
+    margin-left: -0.4px;
+    -webkit-text-stroke: 0.4px #262626;
+    font-family: "Gilda display";
+    font-weight: 400;
+    color: #262626;
+    font-size: 1.5vw;
+    letter-spacing: normal;
+    line-height: 62px;
+    border-color: #262626;
+    font-style: normal;
+}
+.description {
+    position: relative;
+    align-self: stretch;
+    font-family: "Urbanist";
+    font-weight: 400;
+    color: #262626;
+    font-size: 1vw;
+    letter-spacing: normal;
+    line-height: 32px;
+    font-style: normal;
+}
+.action {
+    display: flex;
+    align-self: flex-end;
+    gap: 12px;
+    position: relative;
+}
+.text {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.4px;
+    margin-left: -0.4px;
+    -webkit-text-stroke: 0.4px #25a59e;
+    font-family: "Gilda Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #25A59E;
+    font-size: 1vw;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    border-color: #25A59E;
+}
+.listtop {
+    position: absolute;
+    width: 375px;
+    height: 4px;
+    top: 0;
+    left: 0;
+    background-color: #25A59E;
+}
+.card-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    gap: 80px;
+    padding: 40px 32px 48px;
+    position: relative;
+    width: 375px;
+    flex: 1;
+    flex-grow: 1;
+    background-color: #25A59E;
+    box-shadow: 10px 26px 150px #4342631a;
+}
+.title-1 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.4px;
+    margin-left: -0.4px;
+    -webkit-text-stroke: 0.4px #ffffff;
+    font-family: "Gilda display";
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 1.5vw;
+    letter-spacing: normal;
+    line-height: 62px;
+    border-color: #FFFFFF;
+    font-style: normal;
+}
+.description-1 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Urbanist";
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 1vw;
+    letter-spacing: normal;
+    line-height: 32px;
+    font-style: normal;
+}
+.text-1 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.4px;
+    margin-left: -0.4px;
+    -webkit-text-stroke: 0.4px #ffffff;
+    font-family: "Gilda Display-Regular", Helvetica;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 1vw;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    border-color: #FFFFFF;
+}
