@@ -78,3 +78,22 @@ span {
 .view {
     margin-top: -15px;
 }
+.content-1 {
+    width: 335px;
+    height: 104px;
+    margin-top: 560px;
+}
+.content-1 h1 {
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+}
+.content-1 p {
+    font-family: "Urbanist";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    height: 48px;
+    
+}
