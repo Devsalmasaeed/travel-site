@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+:root {
+    --orange-color: #EE8F39;
+    --light-blue: #25A59E;
+    --brand: #44D5CD;
+    --white: #FFFFFF;
+    --black: #262626;
+    --neutral: #D9D9D9
+}
+body {
+    margin: 50px;
+}
