@@ -53,3 +53,28 @@ body {
 span {
     color: #25A59E;
 }
+.box {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.box img {
+    max-width: 375px;
+    position: absolute;
+    height: auto;
+    margin-top: 300px;
+    margin-right: 350px;
+}
+.blurry {
+    margin-top: -60px;
+}
+.circle {
+    margin-top: 32px;
+}
+.ecllip {
+    margin-top: 20px;
+}
+.view {
+    margin-top: -15px;
+}
