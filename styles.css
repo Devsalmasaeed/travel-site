@@ -338,3 +338,22 @@ span {
     height: 247px;
     margin-top: -280px;
 }
+.trip {
+    width: 100%;
+    position: relative;
+    margin-top: 90px;
+}
+.trip img {
+    max-width: 375px;
+}
+.trip p {
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    height: 156px;
+    text-align: center;
+    width: 375px;
+    color: #262626;
+    margin-bottom: 20px;
+}
