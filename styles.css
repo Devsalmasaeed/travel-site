@@ -289,3 +289,35 @@ span {
     white-space: nowrap;
     border-color: #FFFFFF;
 }
+.group {
+    display: flex;
+    flex-direction: column;
+    margin-top: 300px;
+    width: 100%;
+    position: relative;
+    gap: 26px;
+}
+.text-2 {
+    display: flex;
+    flex-direction: column;
+    width: 375px;
+    height: 212px;
+}
+.text-2 h1 {
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    height: 104px;
+    margin-top: -230px;
+    color: #262626;
+}
+.text-2 p {
+    font-family: "Urbanist";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    height: 96px;
+    color: #595959;
+    margin-top: 10px;
+}
