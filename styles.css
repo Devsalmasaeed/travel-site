@@ -321,3 +321,20 @@ span {
     color: #595959;
     margin-top: 10px;
 }
+.img-group {
+    position: absolute;
+    max-width: 375px;
+    height: auto;
+    margin-top: -100px;
+}
+.shape {
+    width: 276.03px;
+    height: 121.72px;
+    margin-top: 220px;
+    margin-left: 29px;
+}
+.look {
+    width: 335.11px;
+    height: 247px;
+    margin-top: -280px;
+}
