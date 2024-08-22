@@ -12,7 +12,8 @@
     --neutral: #D9D9D9
 }
 body {
-    margin: 50px;
+    max-width: 380px;
+    margin: auto;
 }
 .header {
     background-color: #FFFFFF;
